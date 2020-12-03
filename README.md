@@ -3,14 +3,12 @@
 CLS
 ECHO.
 
-##############################################################
-# Hier werden Quelle und Ziel definiert.                     # 
-# Die Quelle ist der WOW Ordner.                             #
-# Das Ziel ist ein Ordner auf z.B. einer anderen Festplatte. #
-# Optional kann mit /LOG ein Protokoll geschrieben werden.   #
-# Der Ordner für das Protokoll muss bereits vorhanden sein.  #
-# Am besten das Script im Ordner C:\scripts ablegen.         #
-##############################################################
+Hier werden Quelle und Ziel definiert.
+Die Quelle ist der WOW Ordner.
+Das Ziel ist ein Ordner auf z.B. einer anderen Festplatte.
+Optional kann mit /LOG ein Protokoll geschrieben werden.
+Der Ordner für das Protokoll muss bereits vorhanden sein.
+Am besten das Script im Ordner C:\scripts ablegen.
 
 set rcopy=C:\Windows\System32
 set quelle=C:\Program Files (x86)\World of Warcraft
@@ -31,14 +29,12 @@ pause
 CLS
 ECHO.
 
-##############################################################
-# Hier werden Quelle und Ziel definiert.                     # 
-# Die Quelle ist der WOW Ordner.                             #
-# Das Ziel ist ein Ordner auf z.B. einer anderen Festplatte. #
-# Optional kann mit /LOG ein Protokoll geschrieben werden.   #
-# Der Ordner für das Protokoll muss bereits vorhanden sein.  #
-# Am besten das Script im Ordner C:\scripts ablegen.         #
-##############################################################
+Hier werden Quelle und Ziel definiert.
+Die Quelle ist der WOW Ordner.
+Das Ziel ist ein Ordner auf z.B. einer anderen Festplatte.
+Optional kann mit /LOG ein Protokoll geschrieben werden.
+Der Ordner für das Protokoll muss bereits vorhanden sein.
+Am besten das Script im Ordner C:\scripts ablegen.
 
 set rcopy=C:\Windows\System32
 set quelle01=C:\Program Files (x86)\World of Warcraft\_retail_\Interface

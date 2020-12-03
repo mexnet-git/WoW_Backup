@@ -1,8 +1,9 @@
 # WoW_Backup
 
-Hier werden Quelle und Ziel definiert.
-Die Quelle ist der WOW Ordner.
-Das Ziel ist ein Ordner auf z.B. einer anderen Festplatte.
-Optional kann mit /LOG ein Protokoll geschrieben werden.
-Der Ordner für das Protokoll muss bereits vorhanden sein.
-Am besten das Script im Ordner C:\scripts ablegen.
+Simple script to save the WoW folder completely or only the interface.
+No additional software needed as Windows internal tools are used.
+
+--------------------------------
+
+Einfaches Script um den WoW Ordner komplett oder nur das Interface zu sichern.
+Keine zusätzliche Software notwendig da Windows interne Tools verwendet werden.
